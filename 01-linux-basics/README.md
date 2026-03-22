@@ -1,27 +1,23 @@
-# Lab 01 – Linux Basics
+## Lab Description
 
-## Objective
-Learn basic Linux terminal commands used to navigate the filesystem and manage files.
+This is my first Linux lab. The goal was to get comfortable using basic commands in the terminal.
 
-## Environment
-Ubuntu Server virtual machine.
+I practiced simple things like navigating folders, creating files, reading file contents, and changing file permissions. Everything here is very basic, but it’s an important first step since Linux is used everywhere in cybersecurity.
 
-## Commands to Practice
+I’m focusing on building a strong foundation before moving on to more advanced topics.
 
-pwd  
-ls  
-cd  
-mkdir  
-touch  
-cat  
-chmod  
 
-## Lab Overview
+### Login
+![Login](./screenshots/01-login.png)
 
-This lab will focus on becoming familiar with the Linux command line by practicing fundamental commands used for navigation and file management.
+### System Overview
+![System](./screenshots/02-system-overview.png)
 
-These commands are essential for working with Linux systems and are widely used in system administration and cybersecurity tasks.
+### Navigation
+![Navigation](./screenshots/03-navigation.png)
 
-## Status
+### File Creation
+![Files](./screenshots/04-file-creation.png)
 
-Planned – Lab execution will be completed once the Ubuntu virtual machine is configured.
+### Permissions
+![Permissions](./screenshots/05-permissions.png)
