@@ -1,26 +1,59 @@
-# Cybersecurity Labs 2026
+# Linux Home Labs 2026
 
-This repository documents a collection of hands-on cybersecurity labs and experiments completed throughout 2026.
+This repository documents a collection of hands-on Linux labs completed throughout 2026.
 
-The goal of these labs is to develop practical skills in areas such as Linux systems, networking, and cybersecurity fundamentals through real-world exercises and experimentation.
+The purpose of these labs is to build practical, real-world experience with Linux systems, focusing on system administration, troubleshooting, and foundational skills used in IT and cybersecurity roles.
+
+---
 
 ## Objectives
 
-- Build hands-on cybersecurity experience
-- Practice Linux system administration and security concepts
-- Explore networking fundamentals and analysis tools
-- Document practical labs and lessons learned
-- Track my cybersecurity learning journey throughout 2026
+* Build strong hands-on experience with Linux environments
+* Develop confidence using the terminal and core Linux commands
+* Practice system administration tasks (users, permissions, processes)
+* Understand basic troubleshooting and problem-solving in Linux
+* Create a documented portfolio of labs to track progress throughout 2026
+
+---
 
 ## Lab Environment
 
-The labs in this repository are conducted using a home lab environment, including:
+These labs are performed using a home lab setup, including:
 
-- Linux virtual machines
-- Terminal-based system administration
-- Networking and security tools
-- Virtualized environments
+* macOS Terminal (Unix-based environment)
+* Linux virtual machines (when applicable)
+* Command-line tools and utilities
+* Virtualized environments (VirtualBox / future setups)
+
+---
 
 ## Lab Structure
 
-Each lab is organized in its own folder and includes documentation explaining the objective, steps performed, and key takeaways.
+Each lab is organized in its own folder and includes:
+
+* **Objective** — what the lab focuses on
+* **Tools Used** — commands or environments used
+* **Steps Performed** — actions taken during the lab
+* **Results** — what was achieved
+* **Key Takeaways** — lessons learned
+* **Screenshots** — visual evidence (when applicable)
+
+---
+
+## Focus Areas
+
+* File system navigation
+* File permissions and ownership
+* Users and groups management
+* Process management
+* Basic networking commands
+* System monitoring and troubleshooting
+
+---
+
+## Notes
+
+This repository is part of my broader IT and cybersecurity learning journey.
+The focus is on consistency, practical exposure, and building real skills over time.
+
+---
